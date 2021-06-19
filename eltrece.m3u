@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:173052
+#EXT-X-PROGRAM-DATE-TIME:2021-06-19T23:34:44Z
+#EXTINF:6.000,
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/2021/06/19/23/34/44-06000.ts
+#EXTINF:6.000,
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/2021/06/19/23/34/50-06000.ts
+#EXTINF:6.000,
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/2021/06/19/23/34/56-06000.ts
+#EXTINF:6.000,
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/2021/06/19/23/35/02-06000.ts
